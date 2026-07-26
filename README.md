@@ -40,7 +40,7 @@
 | Attribute | Value |
 |-----------|-------|
 | **Project Type** | Municipal Issue Reporting & Management System |
-| **Governorate** | Qalyubia (القليوبية) |
+| **Governorate** | Qalyubia (القاهرة) |
 | **Tech Stack** | MERN (MongoDB, Express, React, Node.js) |
 | **Language** | Arabic (RTL) with full Unicode support |
 | **Authentication** | JWT with auto-invalidation on password change |
