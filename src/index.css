@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Cairo';
+  src: url('./assets/fonts/Cairo-Regular.ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url('./assets/fonts/Cairo-SemiBold.ttf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url('./assets/fonts/Cairo-Bold.ttf');
+  font-weight: 700;
+}
+
+@import "tailwindcss";
+
+@theme {
+  --font-main: 'Cairo', sans-serif;
+
+  --color-primary:      #0d9488;
+  --color-primary-dark: #0f766e;
+  --color-primary-darker: #134e4a; 
+
+
+  --color-danger:  #DC2626;
+  --color-warning: #D97706;
+  --color-info:    #2563EB;
+}
+body {
+  font-family: var(--font-main);
+}
+
+/* ::-webkit-scrollbar { display: none; }
+::-webkit-scrollbar-track { display: none; }
+::-webkit-scrollbar-thumb { display: none; 
+} */
