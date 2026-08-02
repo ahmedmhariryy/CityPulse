@@ -289,36 +289,16 @@ npm run dev              # Starts on http://localhost:5173
 | Email | admin@citypulse.com |
 | Password | admin123 |
 
-⚠️ **Change default credentials immediately after first login!**
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="./frontend/public/screenshots/p1.jpeg" alt="Screenshot 1" width="400"/>
-  <img src="./frontend/public/screenshots/p2.jpeg" alt="Screenshot 2" width="400"/>
-  <br/>
-  <img src="./frontend/public/screenshots/p3.jpeg" alt="Screenshot 3" width="400"/>
-  <img src="./frontend/public/screenshots/p4.jpeg" alt="Screenshot 4" width="400"/>
-  <br/>
-  <img src="./frontend/public/screenshots/p5.jpeg" alt="Screenshot 5" width="400"/>
-  <img src="./frontend/public/screenshots/p6.jpeg" alt="Screenshot 6" width="400"/>
-  <br/>
-  <img src="./frontend/public/screenshots/p7.jpeg" alt="Screenshot 7" width="400"/>
-  <img src="./frontend/public/screenshots/p8.jpeg" alt="Screenshot 8" width="400"/>
-  <br/>
-  <img src="./frontend/public/screenshots/p9.jpeg" alt="Screenshot 9" width="400"/>
-  <img src="./frontend/public/screenshots/p10.jpeg" alt="Screenshot 10" width="400"/>
-</div>
 
 ---
 
 
 
+
+
 <div align="center">
 
-Made with ❤️ for Qalyubia Governorate
+Made with ❤️ for Cairo Governorate
 
 
 </div>
