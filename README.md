@@ -314,16 +314,7 @@ npm run dev              # Starts on http://localhost:5173
 
 ---
 
-## 👥 Contributors
 
-| Name | Role |
-|------|------|
-| Mai Mohamed | Team Leader & Full Stack Developer |
-| Asmaa AbdelKader | Frontend Developer |
-| Yehya Mostafa | Frontend Developer |
-| Salma Sharaawy | Frontend Developer |
-| Malak Allam | Frontend Developer |
-| Noran Wael | Frontend Developer |
 
 <div align="center">
 
