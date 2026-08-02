@@ -283,17 +283,6 @@ cp .env.example .env    # Edit with your values
 npm run dev              # Starts on http://localhost:5173
 ```
 
-### Default Admin Account
-| Field | Value |
-|-------|-------|
-| Email | admin@citypulse.com |
-| Password | admin123 |
-
-
----
-
-
-
 
 
 <div align="center">
