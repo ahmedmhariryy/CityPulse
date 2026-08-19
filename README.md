@@ -12,7 +12,7 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 **Smart Municipal Issue Reporting & Management System**<br/>
-*Qalyubia Governorate, Egypt 🇪🇬*
+*Cairo Governorate, Egypt 🇪🇬*
 
 [📋 Features](#-features) · [🛠️ Tech Stack](#-tech-stack) · [📡 API](#-api-endpoints) · [🚀 Getting Started](#-getting-started) · [📸 Screenshots](#-screenshots)
 
