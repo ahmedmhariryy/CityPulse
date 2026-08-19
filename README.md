@@ -156,8 +156,8 @@ frontend/src/
 ### 🔐 Authentication
 | Method | Endpoint | Auth | Description |
 |--------|----------|------|-------------|
-| `POST` | `/api/auth/register` | ❌ | Register new citizen account |
-| `POST` | `/api/auth/login` | ❌ | Login (returns JWT + user data) |
+| `POST` | `/api/auth/register` | ✅ | Register new citizen account |
+| `POST` | `/api/auth/login` | ✅ | Login (returns JWT + user data) |
 | `GET` | `/api/auth/me` | ✅ | Get current user profile |
 | `PATCH` | `/api/auth/update-me` | ✅ | Update name/phone |
 | `PATCH` | `/api/auth/update-password` | ✅ | Change password (invalidates old tokens) |
